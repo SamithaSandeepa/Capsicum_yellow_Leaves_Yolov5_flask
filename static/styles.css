@@ -1,0 +1,28 @@
+/* styles.css */
+
+/* Custom CSS styles */
+body {
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  margin-top: 50px;
+}
+
+.card-header {
+  background-color: #007bff;
+  color: #fff;
+}
+
+.card-body ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.card-body ul li {
+  margin-bottom: 5px;
+}
+
+#open-folder-btn {
+  margin-top: 20px;
+}
