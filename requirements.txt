@@ -74,7 +74,7 @@ networkx==3.2.1
 numpy==1.26.4
 opencv-python==4.9.0.80
 packaging==23.2
-pandas==2.2.0
+pandas==2.2.1
 pillow==10.2.0
 psutil==5.9.8
 py-cpuinfo==9.0.0
